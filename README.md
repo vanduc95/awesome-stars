@@ -20,6 +20,7 @@
 
 ## Go 
 
+- [run](https://github.com/oklog/run) - A universal mechanism to manage goroutine lifecycles
 - [trickster](https://github.com/tricksterproxy/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
 - [faythe](https://github.com/vCloud-DFTBA/faythe) - An experimental cluster brings Prometheus and OpenStack together
 - [ibus-bamboo](https://github.com/BambooEngine/ibus-bamboo) - Bộ gõ tiếng Việt cho Linux
