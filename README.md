@@ -68,7 +68,7 @@
 
 - [awesome-sanic](https://github.com/mekicha/awesome-sanic) - A curated list of awesome Sanic resources and extensions
 - [golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
-- [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - 📝 A curated list of awesome Prometheus resources, projects and tools.
+- [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
@@ -91,6 +91,7 @@
 
 ## Python 
 
+- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [selenium_with_python](https://github.com/venkywarriors/selenium_with_python) - selenium with python from basic to advanced with python 3.x
 - [celery-demo](https://github.com/jimmykobe1171/celery-demo) - 
