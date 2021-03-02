@@ -26,7 +26,6 @@
 - [trickster](https://github.com/tricksterproxy/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
 - [faythe](https://github.com/vCloud-DFTBA/faythe) - An experimental cluster brings Prometheus and OpenStack together
 - [ibus-bamboo](https://github.com/BambooEngine/ibus-bamboo) - Bộ gõ tiếng Việt cho Linux
-- [number-verifier](https://github.com/upmasked/number-verifier) - Number Verifier is a SMS verification tool that makes it easy to get a disposable SMS number and bypass SMS number verifications on any site.
 - [test-infra](https://github.com/prometheus/test-infra) - Prometheus E2E benchmarking tool
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
@@ -93,6 +92,8 @@
 
 ## Python 
 
+- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step by step guide to learn the Python programming language in 30 days. This challenge may take up to 100 days, follow your own pace.
+- [git-memo](https://github.com/marczz/git-memo) - 
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [selenium_with_python](https://github.com/venkywarriors/selenium_with_python) - selenium with python from basic to advanced with python 3.x
