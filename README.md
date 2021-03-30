@@ -51,6 +51,7 @@
 ## JavaScript 
 
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [NexClipper/exporterhub.io](https://github.com/NexClipper/exporterhub.io) - A Curated List of Prometheus Exporters
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [abpvn/abpvn](https://github.com/abpvn/abpvn) - ABPVN - Bộ lọc quảng cáo cho người việt
@@ -98,7 +99,6 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [venkywarriors/selenium_with_python](https://github.com/venkywarriors/selenium_with_python) - selenium with python from basic to advanced with python 3.x
 - [jimmykobe1171/celery-demo](https://github.com/jimmykobe1171/celery-demo) - 
-- [NexClipper/exporterhub.io](https://github.com/NexClipper/exporterhub.io) - A Curated List of Prometheus Exporters
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [prometheus-up-and-running/examples](https://github.com/prometheus-up-and-running/examples) - Example code and files from "Prometheus: Up and Running"
 - [ubuntu/microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
