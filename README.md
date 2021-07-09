@@ -69,6 +69,7 @@
 
 ## Others 
 
+- [promlabs/promlens-public](https://github.com/promlabs/promlens-public) - Public repository for PromLens documentation, issues, bugs, and feature requests
 - [mekicha/awesome-sanic](https://github.com/mekicha/awesome-sanic) - A curated list of awesome Sanic resources and extensions
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
