@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [C](#c)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -19,6 +20,10 @@
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
+
+## C 
+
+- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 
 ## Go 
 
@@ -36,7 +41,6 @@
 - [jjneely/stuff](https://github.com/jjneely/stuff) - Random bits of code
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [huynguyennovem/golang](https://github.com/huynguyennovem/golang) - 
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [wardviaene/kubernetes-course](https://github.com/wardviaene/kubernetes-course) - Kubernetes Course Files
 - [moncho/dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
 
