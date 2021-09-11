@@ -26,6 +26,7 @@
 
 ## Go 
 
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [authzed/prom-authzed-proxy](https://github.com/authzed/prom-authzed-proxy) - A proxy that authorizes and enforces a given label in a given PromQL query
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [oklog/run](https://github.com/oklog/run) - A universal mechanism to manage goroutine lifecycles
