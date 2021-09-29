@@ -116,7 +116,6 @@
 - [kjahan/community](https://github.com/kjahan/community) - A Python implementation of Girvan-Newman algorithm
 - [grandcat/chordentlich](https://github.com/grandcat/chordentlich) - Chordentlich - A robust Chord DHT implementation in Python
 - [nhatbkk57/chord-based-discovery-iot](https://github.com/nhatbkk57/chord-based-discovery-iot) - 
-- [gaston770/python-chord](https://github.com/gaston770/python-chord) - Python implementation of Chord DHT
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 
 ## Ruby 
