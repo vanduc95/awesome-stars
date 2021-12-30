@@ -137,7 +137,7 @@
 - [ntk148v/prompose](https://github.com/ntk148v/prompose) - Prometheus setup with Ansible and Docker-compose
 - [ntk148v/til](https://github.com/ntk148v/til) - Today I learned
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [hocchudong/ghichep-collectd](https://github.com/hocchudong/ghichep-collectd) - Các ghi chép về graphite - collectd
 - [beekhof/osp-ha-deploy](https://github.com/beekhof/osp-ha-deploy) - scripts for deploying a HA install of OSP
