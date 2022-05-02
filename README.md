@@ -48,6 +48,7 @@
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [cuongtransc/docker-training](https://github.com/cuongtransc/docker-training) - Docker Training
+- [ansiblebook/ansiblebook](https://github.com/ansiblebook/ansiblebook) - Code samples from the book "Ansible: Up and Running"
 
 ## Java 
 
@@ -110,7 +111,6 @@
 - [openstack/barbican](https://github.com/openstack/barbican) - Barbican is a ReST API designed for the secure storage, provisioning and management of secrets, including in OpenStack environments. Mirror of code maintained at opendev.org.
 - [osaddon/cdmi](https://github.com/osaddon/cdmi) - CDMI on OpenStack Swift implementation
 - [minhpqn/nlp_100_drill_exercises](https://github.com/minhpqn/nlp_100_drill_exercises) - 100 bài luyện tập xử lý ngôn ngữ tự nhiên
-- [ansiblebook/ansiblebook](https://github.com/ansiblebook/ansiblebook) - Code samples from the book "Ansible: Up and Running"
 - [kjahan/community](https://github.com/kjahan/community) - A Python implementation of Girvan-Newman algorithm
 - [grandcat/chordentlich](https://github.com/grandcat/chordentlich) - Chordentlich - A robust Chord DHT implementation in Python
 - [nhatbkk57/chord-based-discovery-iot](https://github.com/nhatbkk57/chord-based-discovery-iot) - 
