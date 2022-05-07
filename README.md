@@ -45,7 +45,6 @@
 ## HTML 
 
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [cuongtransc/docker-training](https://github.com/cuongtransc/docker-training) - Docker Training
 - [ansiblebook/ansiblebook](https://github.com/ansiblebook/ansiblebook) - Code samples from the book "Ansible: Up and Running"
@@ -82,7 +81,6 @@
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [bregman-arie/computer-networking](https://github.com/bregman-arie/computer-networking) - Free resources for a self-taught education in Computer Networking
-- [rootsongjc/cloud-native-slides-share](https://github.com/rootsongjc/cloud-native-slides-share) - Cloud Native slides and materials share
 - [eggclub-org/linux-training](https://github.com/eggclub-org/linux-training) - Linux Training
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
@@ -112,9 +110,9 @@
 - [osaddon/cdmi](https://github.com/osaddon/cdmi) - CDMI on OpenStack Swift implementation
 - [minhpqn/nlp_100_drill_exercises](https://github.com/minhpqn/nlp_100_drill_exercises) - 100 bài luyện tập xử lý ngôn ngữ tự nhiên
 - [kjahan/community](https://github.com/kjahan/community) - A Python implementation of Girvan-Newman algorithm
-- [grandcat/chordentlich](https://github.com/grandcat/chordentlich) - Chordentlich - A robust Chord DHT implementation in Python
 - [nhatbkk57/chord-based-discovery-iot](https://github.com/nhatbkk57/chord-based-discovery-iot) - 
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+- [grandcat/chordentlich](https://github.com/grandcat/chordentlich) - Chordentlich - A robust Chord DHT implementation in Python
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud
 
 ## Roff 
 
@@ -124,6 +122,7 @@
 
 - [elastic/ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch) - Ansible playbook for Elasticsearch
 - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 
 ## Rust 
@@ -140,7 +139,7 @@
 - [ntk148v/prompose](https://github.com/ntk148v/prompose) - Prometheus setup with Ansible and Docker-compose
 - [ntk148v/til](https://github.com/ntk148v/til) - Today I learned
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [hocchudong/ghichep-collectd](https://github.com/hocchudong/ghichep-collectd) - Các ghi chép về graphite - collectd
 - [beekhof/osp-ha-deploy](https://github.com/beekhof/osp-ha-deploy) - scripts for deploying a HA install of OSP
