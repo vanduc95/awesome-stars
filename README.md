@@ -45,6 +45,7 @@
 ## HTML 
 
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [cuongtransc/docker-training](https://github.com/cuongtransc/docker-training) - Docker Training
 - [ansiblebook/ansiblebook](https://github.com/ansiblebook/ansiblebook) - Code samples from the book "Ansible: Up and Running"
@@ -125,7 +126,6 @@
 
 - [elastic/ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch) - Ansible playbook for Elasticsearch
 - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 
 ## Rust 
