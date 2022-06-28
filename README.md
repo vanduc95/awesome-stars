@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [C++](#c++)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -19,6 +20,10 @@
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vim script](#vim-script)
+
+## C++ 
+
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 
 ## Go 
 
