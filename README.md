@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [C](#c)
 - [C++](#c++)
 - [Go](#go)
 - [HTML](#html)
@@ -20,6 +21,10 @@
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vim script](#vim-script)
+
+## C 
+
+- [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 
 ## C++ 
 
@@ -139,6 +144,7 @@
 
 ## Shell 
 
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
