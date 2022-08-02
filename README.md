@@ -32,6 +32,7 @@
 
 ## Go 
 
+- [AlexZzz/libvirt-exporter](https://github.com/AlexZzz/libvirt-exporter) - Prometheus metrics exporter for libvirt.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [authzed/prom-authzed-proxy](https://github.com/authzed/prom-authzed-proxy) - A Prometheus proxy that performs SpiceDB permission checks based on labels
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
