@@ -20,7 +20,7 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [TypeScript](#typescript)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 
 ## C 
 
@@ -167,7 +167,7 @@
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 
-## Vim script 
+## Vim Script 
 
 - [ntk148v/vim-horizon](https://github.com/ntk148v/vim-horizon) - Adaptation of VS Code horizon colorscheme for Vim
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
