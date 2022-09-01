@@ -32,6 +32,7 @@
 
 ## Go 
 
+- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [AlexZzz/libvirt-exporter](https://github.com/AlexZzz/libvirt-exporter) - Prometheus metrics exporter for libvirt.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [authzed/prom-authzed-proxy](https://github.com/authzed/prom-authzed-proxy) - A Prometheus proxy that performs SpiceDB permission checks based on labels
