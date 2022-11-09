@@ -7,6 +7,7 @@
 
 - [C](#c)
 - [C++](#c++)
+- [CSS](#css)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -29,6 +30,10 @@
 ## C++ 
 
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+
+## CSS 
+
+- [ntk148v/hugo-toigian](https://github.com/ntk148v/hugo-toigian) - A minimal Hugo theme with Tailwind CSS
 
 ## Go 
 
@@ -148,6 +153,7 @@
 
 ## Shell 
 
+- [prastamaha/openstack-octavia](https://github.com/prastamaha/openstack-octavia) - Deployment Openstack Octavia Using Kolla-Ansible on Centos 8
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
