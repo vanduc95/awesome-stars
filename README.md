@@ -116,6 +116,7 @@
 
 ## Python 
 
+- [jertel/elastalert2](https://github.com/jertel/elastalert2) - ElastAlert 2 is a continuation of the original yelp/elastalert project. Pull requests are appreciated!
 - [4n4nd/prometheus-api-client-python](https://github.com/4n4nd/prometheus-api-client-python) - A python wrapper for the prometheus http api
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [ysde/grafana-backup-tool](https://github.com/ysde/grafana-backup-tool) - A Python-based application to backup Grafana settings using the Grafana API
