@@ -134,6 +134,7 @@
 - [jimmykobe1171/celery-demo](https://github.com/jimmykobe1171/celery-demo) - 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [prometheus-up-and-running/examples](https://github.com/prometheus-up-and-running/examples) - Example code and files from "Prometheus: Up and Running"
+- [ntk148v/til](https://github.com/ntk148v/til) - Today I learned
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 - [openstack/barbican](https://github.com/openstack/barbican) - Barbican is a ReST API designed for the secure storage, provisioning and management of secrets, including in OpenStack environments. Mirror of code maintained at opendev.org.
 - [osaddon/cdmi](https://github.com/osaddon/cdmi) - CDMI on OpenStack Swift implementation
@@ -167,7 +168,6 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [ntk148v/prompose](https://github.com/ntk148v/prompose) - Prometheus setup with Ansible and Docker-compose
-- [ntk148v/til](https://github.com/ntk148v/til) - Today I learned
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [hocchudong/ghichep-collectd](https://github.com/hocchudong/ghichep-collectd) - Các ghi chép về graphite - collectd
