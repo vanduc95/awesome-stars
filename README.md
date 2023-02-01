@@ -38,7 +38,7 @@
 
 ## CSS 
 
-- [ntk148v/hugo-toigian](https://github.com/ntk148v/hugo-toigian) - A minimal Hugo theme with Tailwind CSS
+- [ntk148v/hugo-toigian](https://github.com/ntk148v/hugo-toigian) - A minimal Hugo theme with Tailwind CSS that covers all of the essentials. All you have to do is start typing!
 
 ## Go 
 
