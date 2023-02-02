@@ -160,6 +160,7 @@
 
 ## Shell 
 
+- [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [prastamaha/openstack-octavia](https://github.com/prastamaha/openstack-octavia) - Deployment Openstack Octavia Using Kolla-Ansible on Centos 8
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
