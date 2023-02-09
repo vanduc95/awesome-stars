@@ -42,6 +42,7 @@
 
 ## Go 
 
+- [openstack-exporter/openstack-exporter](https://github.com/openstack-exporter/openstack-exporter) - OpenStack Exporter for Prometheus
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [Tinkoff/libvirt-exporter](https://github.com/Tinkoff/libvirt-exporter) - Prometheus metrics exporter for libvirt.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
