@@ -122,6 +122,7 @@
 
 ## Python 
 
+- [hvac/hvac](https://github.com/hvac/hvac) - :lock: Python 2.7/3.X client for HashiCorp Vault
 - [jertel/elastalert2](https://github.com/jertel/elastalert2) - ElastAlert 2 is a continuation of the original yelp/elastalert project. Pull requests are appreciated!
 - [4n4nd/prometheus-api-client-python](https://github.com/4n4nd/prometheus-api-client-python) - A python wrapper for the prometheus http api
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
@@ -177,6 +178,7 @@
 
 ## TypeScript 
 
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
