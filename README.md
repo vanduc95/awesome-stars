@@ -124,7 +124,7 @@
 
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Next generation Python web server/framework | Build fast. Run fast.
 - [dabapps/django-log-request-id](https://github.com/dabapps/django-log-request-id) - Django middleware and log filter to attach a unique ID to every log message generated as part of a request
-- [hvac/hvac](https://github.com/hvac/hvac) - :lock: Python 2.7/3.X client for HashiCorp Vault
+- [hvac/hvac](https://github.com/hvac/hvac) - :lock: Python 3.X client for HashiCorp Vault
 - [jertel/elastalert2](https://github.com/jertel/elastalert2) - ElastAlert 2 is a continuation of the original yelp/elastalert project. Pull requests are appreciated!
 - [4n4nd/prometheus-api-client-python](https://github.com/4n4nd/prometheus-api-client-python) - A python wrapper for the prometheus http api
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
