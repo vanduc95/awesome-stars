@@ -79,6 +79,7 @@
 
 ## JavaScript 
 
+- [corecoding/Vitals](https://github.com/corecoding/Vitals) - A glimpse into your computer's temperature, voltage, fan speed, memory usage and CPU load.
 - [F-i-f/soft-brightness](https://github.com/F-i-f/soft-brightness) - Gnome-shell extension to manage your display brightness via an alpha overlay (instead of the backlight).
 - [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found i
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
