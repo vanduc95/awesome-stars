@@ -138,7 +138,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [prometheus-up-and-running/examples](https://github.com/prometheus-up-and-running/examples) - Example code and files from "Prometheus: Up and Running"
 - [ntk148v/til](https://github.com/ntk148v/til) - Today I learned
-- [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
+- [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [openstack/barbican](https://github.com/openstack/barbican) - Barbican is a ReST API designed for the secure storage, provisioning and management of secrets, including in OpenStack environments. Mirror of code maintained at opendev.org.
 - [osaddon/cdmi](https://github.com/osaddon/cdmi) - CDMI on OpenStack Swift implementation
 - [minhpqn/nlp_100_drill_exercises](https://github.com/minhpqn/nlp_100_drill_exercises) - 100 bài luyện tập xử lý ngôn ngữ tự nhiên
