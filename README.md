@@ -121,6 +121,7 @@
 
 ## Python 
 
+- [elastic/rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
 - [dabapps/django-log-request-id](https://github.com/dabapps/django-log-request-id) - Django middleware and log filter to attach a unique ID to every log message generated as part of a request
 - [hvac/hvac](https://github.com/hvac/hvac) - :lock: Python 3.X client for HashiCorp Vault
