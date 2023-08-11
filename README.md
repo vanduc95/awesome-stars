@@ -117,7 +117,7 @@
 
 - [56kcloud/Training](https://github.com/56kcloud/Training) - Container, Monitoring & Logging, Cloud & DevOps Tutorials and Labs
 - [docker/labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
 
 ## Python 
 
