@@ -22,6 +22,7 @@
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [Vue](#vue)
 
 ## C 
 
@@ -191,6 +192,10 @@
 
 - [ntk148v/vim-horizon](https://github.com/ntk148v/vim-horizon) - Adaptation of VS Code horizon colorscheme for Vim
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
+
+## Vue 
+
+- [johnsusek/praeco](https://github.com/johnsusek/praeco) - Elasticsearch alerting made simple.
 
 
 ## License
