@@ -70,6 +70,7 @@
 
 ## HTML 
 
+- [anonystick/anonystick](https://github.com/anonystick/anonystick) - 
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
@@ -101,7 +102,6 @@
 
 ## Others 
 
-- [anonystick/anonystick](https://github.com/anonystick/anonystick) - 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [promlabs/promlens-public](https://github.com/promlabs/promlens-public) - Public repository for PromLens documentation, issues, bugs, and feature requests
