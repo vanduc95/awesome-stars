@@ -70,7 +70,7 @@
 
 ## HTML 
 
-- [anonystick/anonystick](https://github.com/anonystick/anonystick) - 
+- [anonystick/anonystick](https://github.com/anonystick/anonystick) - FullStack
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
