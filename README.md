@@ -182,7 +182,7 @@
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [ntk148v/prompose](https://github.com/ntk148v/prompose) - Prometheus setup with Ansible and Docker-compose
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [hocchudong/ghichep-collectd](https://github.com/hocchudong/ghichep-collectd) - Các ghi chép về graphite - collectd
 - [beekhof/osp-ha-deploy](https://github.com/beekhof/osp-ha-deploy) - scripts for deploying a HA install of OSP
 
