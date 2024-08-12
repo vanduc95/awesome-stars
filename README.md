@@ -79,7 +79,7 @@
 
 ## Java 
 
-- [hfokas/Chord-Implementation](https://github.com/hfokas/Chord-Implementation) - Chord Implementation for Distributed Systems Course
+- [smashing-bytes/Chord-Implementation](https://github.com/smashing-bytes/Chord-Implementation) - Chord Implementation for Distributed Systems Course
 
 ## JavaScript 
 
