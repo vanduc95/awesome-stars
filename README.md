@@ -76,6 +76,7 @@
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [cuongtransc/docker-training](https://github.com/cuongtransc/docker-training) - Docker Training
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [ansiblebook/ansiblebook](https://github.com/ansiblebook/ansiblebook) - Code samples from the book "Ansible: Up and Running"
 
 ## Java 
@@ -120,7 +121,6 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [bregman-arie/computer-networking](https://github.com/bregman-arie/computer-networking) - Free resources for a self-taught education in Computer Networking
 - [eggclub-org/linux-training](https://github.com/eggclub-org/linux-training) - Linux Training
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 - [HPCC-Cloud-Computing/hpcc-know-how](https://github.com/HPCC-Cloud-Computing/hpcc-know-how) - Đây là repository chứa các tìm hiểu về OpenStack của nhóm Cloud Bách Khoa Hà Nội.
